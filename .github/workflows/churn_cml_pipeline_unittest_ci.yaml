@@ -1,6 +1,6 @@
 
 
-name: Churn ML Project CI/CD (Unittest)
+name: Churn ML Project CI/CD (Unittest) 
  
 on:
   push:
